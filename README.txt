@@ -1,1 +1,1 @@
-# My project web UI automation with IntelliJ IDEA, Apache  Maven and other stuff.
+# My GeekBrains project web UI automation with IntelliJ IDEA, Apache  Maven and other stuff.
