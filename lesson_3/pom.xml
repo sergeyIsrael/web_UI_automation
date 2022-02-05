@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>web_UI_automation</artifactId>
+  <artifactId>lesson_3</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>web_UI_automation</name>
+  <name>lesson_3</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -25,9 +25,20 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+
+    <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-java</artifactId>
+      <version>4.1.2</version>
+    </dependency>
+
+    <dependency>
+      <groupId>io.github.bonigarcia</groupId>
+      <artifactId>webdrivermanager</artifactId>
+      <version>5.0.3</version>
+    </dependency>
   </dependencies>
 
   <build>
-
   </build>
 </project>
