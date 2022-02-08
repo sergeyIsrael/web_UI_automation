@@ -29,7 +29,7 @@ public class AmazingSuperSongCHeck {
 //        тоже не работает((
         driver.findElement(By.xpath("//*[@id='menu-60717-1']//a[@href='/songs']")).click();
 
-        driver.close();
+        driver.quit();
 
 
 
